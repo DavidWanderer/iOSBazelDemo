@@ -140,6 +140,6 @@ $ bazel run //appdemo:xcodeproj
 
 [Bazel学习笔记](https://blog.gmem.cc/bazel-study-note)
 
-[**用 bazel 更快更稳定的构建 iOS 项目**](https://bilibili.github.io/2020/07/22/bazel_ios.html)
+[用 bazel 更快更稳定的构建 iOS 项目](https://bilibili.github.io/2020/07/22/bazel_ios.html)
 
 [官方文档：Bazel 简介](https://bazel.build/about/intro?hl=zh-cn)
